@@ -1,0 +1,11 @@
+@import url(./reset.css);
+@import url(./section-intro.css);
+@import url(./section-second.css);
+@import url(./section-three.css);
+@import url(./section-four.css);
+
+
+
+body{
+    background-color: #FFB6C1;
+}
